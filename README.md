@@ -1,2 +1,2 @@
-# My qR Code
+# My QR Code
  
