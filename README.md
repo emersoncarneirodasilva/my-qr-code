@@ -1,2 +1,2 @@
-# my-qr-code
+# My qR Code
  
